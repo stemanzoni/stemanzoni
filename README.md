@@ -1,5 +1,4 @@
-## Hi there 👋
-
+LD Research Staff working on measurements of the properties of the Higgs boson, detector performance and future detector upgrade within the ATLAS Collaboration.
 <!--
 **stemanzoni/stemanzoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
